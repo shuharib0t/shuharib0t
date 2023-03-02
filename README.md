@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Julio Ishikawa 👋
 
-<!--
-**shuharib0t/shuharib0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) :rocket:.
 
-Here are some ideas to get you started:
+#### Current stack
+- :fire: Main language: `Javascript`
+- :card_file_box: Backend: `Nodejs`
+- :construction: Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- :package: Version code control: `Git & Github`
+- :wrench: Tools: `VSCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts 
+- 📬 Email: shuharib0t@gmail.com
+- 👤 [Linkedin](https://www.linkedin.com/in/julio-ishikawa-449417213/)
