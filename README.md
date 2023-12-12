@@ -4,11 +4,11 @@
 I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) :rocket:.
 
 #### Current stack
-- :fire: Main language: `Javascript`
-- :card_file_box: Backend: `Nodejs`
-- :construction: Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
-- :package: Version code control: `Git & Github`
-- :wrench: Tools: `VSCode`
+- 🔥 Main language: `Javascript`
+- 🗃️ Backend: `Nodejs`, `SQLite`
+- 🚧 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 📦️ Version code control: `Git & Github`
+- 🔧 Tools: `VSCode`
 
 #### Contacts 
 - 📬 Email: shuharib0t@gmail.com
