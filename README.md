@@ -5,10 +5,9 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 
 #### Current stack
 - 🔥 Main language: `Javascript`
-- 🗃️ Backend: `Nodejs`, `SQLite`
+- 🗃️ Backend: `Nodejs`, `SQLite`, `Prisma`, `Redis`
 - 🚧 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
 - 📦️ Version code control: `Git & Github`
-- 🔧 Tools: `VSCode`
 
 #### Contacts 
 - 📬 Email: shuharib0t@gmail.com
