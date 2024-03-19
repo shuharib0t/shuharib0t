@@ -5,8 +5,8 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 
 #### Current stack
 - 🔥 Main language: `Javascript`, `Typescript`
-- 🗃️ Backend: `Nodejs`, `SQLite`, `Prisma`, `Redis`
-- 🚧 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Vitejs`, `Tailwindcss`, 
+- 🗃️ Backend: `Nodejs`, `Fastify`, `SQLite`, `Prisma`, `Postgres`, `Redis`
+- 🚧 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Vitejs`, `Tailwindcss`,
 - 📦️ Version code control: `Git & Github`
 
 #### Contacts 
