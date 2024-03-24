@@ -9,6 +9,9 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://r
 - 🚧 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Vitejs`, `Tailwindcss`,
 - 📦️ Version code control: `Git & Github`
 
+#### Disponibility
+I'm available to learn new technologies, I just need some good guidance.
+
 #### Contacts 
 - 📬 Email: shuharib0t@gmail.com
 - 👤 [Linkedin](https://www.linkedin.com/in/julio-ishikawa-449417213/)
